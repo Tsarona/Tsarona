@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tsarona
 - 👀 I’m interested in Front end development
-- 🌱 I’m currently learning Html and css. Will advance to JS in due course.
+- 🌱 I’m currently learning Html, css(with tailwind), javascript(with node, express, react, jquery)
 - 💞️ I’m looking to collaborate on webpages
 - 📫 How to reach me? GITHUB.
 
